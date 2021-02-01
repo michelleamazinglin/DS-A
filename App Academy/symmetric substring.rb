@@ -14,4 +14,4 @@
     arr
   end
 
-  puts symmetric_substrings("hello")
+  puts symmetric_substrings("helloll")

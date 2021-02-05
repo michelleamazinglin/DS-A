@@ -1,3 +1,5 @@
+# Array, Hash Table, Math
+
 # Given an array of integers nums.
 
 # A pair (i,j) is called good if nums[i] == nums[j] and i < j.
@@ -17,7 +19,7 @@ def num_identical_pairs(nums)
     
     count = 0
     i = 0
-    while i < nums.length - 1
+    while i < nums.length
         j = 1
         while j < nums.length
             if nums[i] == nums[j] && i < j

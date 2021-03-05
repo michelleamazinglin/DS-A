@@ -10,3 +10,4 @@ Array.prototype.myFlatten = function() {
     }
     return arr;
 }
+// flatten array

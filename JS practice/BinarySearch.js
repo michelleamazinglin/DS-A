@@ -20,3 +20,5 @@ function binarySearch(sortedArray, target) {
         return midpoint;
     }
 }
+
+// time complecity
